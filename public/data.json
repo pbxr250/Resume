@@ -1,0 +1,71 @@
+{
+    "data": {
+        "name": "Pavel Brouka",
+		"resume": {
+            "Intro": "Skillful developer with strong educational background. Have reached most of my professional experience working in SAP ecosystem. Now eager to switch to web development and get more knowledge and practical skills in this direction. I am looking for remote fulltime position as Javascript Fullstack / Frontend developer, preferably React.",
+            "PersonalInfo": {
+                "Address": "Belarus, Minsk, Belomorskaja str. 23-18",
+                "Phone": "+375 295969956",
+                "Email": "pavelbrovko@gmail.com",
+                "Linkedin": "https://www.linkedin.com/in/pavel-brouka-b96b2b36/"
+            },
+            "ProfessionalProfile": [ 
+                "Have worked in SAP ecosystem for 8+ years as Consultant and ABAP Developer, including 1 year of experience in frontend development with SAP OpenUI5 javascript framework. Worked extensively in Sales & Distribution and Material Management SAP modules supporting production and test systems of global IBM projects. In addition have took part in development of IBM Blue Harmony project and Soplex Consult project;", 
+                "Worked in Agile environment, using IBM Jazz tool;",
+                "Have created hobby / freelance websites using pure  html, bootstrap, react, vue, wordpress;",
+                "Performed SEO optimization;",
+                "My web skills include: HTML, CSS, Javascript; visualization libraries: Three.js, Pixi.js, Webgl; frameworks : Bootstrap, MaterialUI, React, Vue, Sap OpenUI5; backend : Node.js / Express.js, Wordpress, RestApi, GraphQL; networks: TCP networks, network requests, protocols - http, ftp, smtp, wss; ",
+                "Besides my technical skills, I have excellent written and verbal communication skills, combine patience, determination and persistence to troubleshoot client issues, proven adaptability to differing cultural and business environments, enjoy working as a team member as well as independently." ],
+            "Experience": [ 
+                { "year":"2010 - 2019", "pos": "SAP Consultant/Developer at IBA Group", "projects": [ 
+                    { "name": "IBM CBS & Lenovo Level 2 application support", "lines": [
+                        "Working closely with functional and business processes, development and basis team, business helpdesks and key users, investigate errors, identify areas requiring improvement",
+                        "Participate in functional meetings to communicate important messages, report service improvement progress and gather feedback and requirements",
+                        "Work closely with service partners and key business users to track open priority issues and ensure prompt resolution; provide 24/7 supports in case of high severity issue",
+                        "Manage and support application improvement projects in collaboration with partner application teams",
+                        "Prepare documentation for key procedures"
+                        ] },
+                    { "name": "IBM Blue Harmony", "lines": [
+                        "ABAP development",
+                        "Development of Sales & Distribution module enhancements",
+                        "Analysis and unit testing",
+                        "Code refactoring and optimization",
+                        "Data migration"
+                        ] },
+                    { "name": "Soplex Consult", "lines": [
+                        "ABAP development"
+                        ] },
+                    { "name": "Learning SAP Cloud Platform", "lines": [
+                        "Have developed SAP Cloud applications with SAP OpenUI5 javascript framework and OData RestAPI backend"
+                        ] }
+                    ] }, 
+                { "year":"2019 - 2021", "pos": "Freelancer", "projects": [ 
+                    { "name": "project", "lines": [
+                        "Created landing pages with Bootstrap",
+                        "Created product catalog with wordpress",
+                        "Created 3D product configurator with three.js library",
+                        "Created video animations with three.js library",
+                        "Learned Vue and React"
+                        ] }
+                    ] }
+            ],
+            "TechSkills": {
+                "WebSkills": [ "HTML", "CSS", "Javascript", "Bootstrap", "MaterialUI", "React", "Vue", "SapOpenUI5",
+                    "Three.js", "Pixi.js", "Webgl", "Node.js", "Wordpress", "MySql", "MongoDB", "Github", "Webpack" ],
+                "Other": [ "SAP", "C++/C# (WinApi)", "JavaSE", "Oracle/PLSQL", "AutoCad/Lisp", "3D(Unity, Blender)",
+                    "VideoEditing", "Photoshop", "MS Word/Excel" ]
+            },
+            "Education": [ 
+                { "name":"Belarusian State University", "title": "BSc in Computer Science"  }, 
+                { "name":"Belarusian State Economic University", "title": "MA of Economics" } 
+            ],
+            "Languages": [ 
+                { "name":"Russian", "level": "Native" }, 
+                { "name":"English", "level": "Advanced/C1" }, 
+                { "name":"German", "level": "Basic/A2" }
+            ],
+            "Interests": [ "Psychology", "Hiking", "Biking", "Swimming", "Gadgets", "Music",
+                "Video" ]
+        }
+    }
+}
